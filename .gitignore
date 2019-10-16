@@ -1,0 +1,6 @@
+*.pyc
+*.~
+__pycache__
+.spyproject
+venv
+db.sqlite3
